@@ -1,0 +1,23 @@
+body {
+  font-family: arial;
+  font-size: 1.2rem;
+}
+
+label {
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+input {
+  font-size: 1rem;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 4px;
+  background: #ccc;
+}
+
+button {
+  margin-top: 30px;
+  display: block;
+}
