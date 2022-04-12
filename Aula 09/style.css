@@ -1,0 +1,8 @@
+h1 {
+  background: #ddd;
+  width: 300px;
+}
+
+span {
+  border: 1px solid rgba(0, 0, 0, 0.5);
+}
