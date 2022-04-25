@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="143.57204mm"
+   height="17.167604mm"
+   viewBox="0 0 143.57204 17.167604"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="C:\Users\Nicholas\Desktop\portfolio\bitmap.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.85741877"
+     inkscape:cx="244.33801"
+     inkscape:cy="-20.410097"
+     inkscape:window-width="1366"
+     inkscape:window-height="768"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:lockguides="true"
+     showguides="false"
+     objecttolerance="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2">
+    <rect
+       x="134.09676"
+       y="309.28769"
+       width="521.24707"
+       height="121.11966"
+       id="rect2673" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Camada 2"
+     transform="translate(-30.965834,-113.30636)">
+    <rect
+       style="fill:#4d4d4d;stroke-width:0.135137"
+       id="rect15969"
+       width="22.716007"
+       height="14.046235"
+       x="150.45341"
+       y="113.30636"
+       ry="3.1093621"
+       inkscape:export-filename="C:\Users\Nicholas\Desktop\portfolio\rect15969.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-30.965834,-113.30636)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.42662912,0,0,0.51062466,-27.027395,-46.202155)"
+       id="text2671"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2673);fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Nicholas\Desktop\portfolio\rect15969.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="134.09766"
+         y="343.99414"
+         id="tspan20788">Nicholas.dev</tspan></text>
+    <rect
+       id="rect15943"
+       width="20.252825"
+       height="11.236987"
+       x="151.82185"
+       y="114.86705"
+       ry="2.4874885"
+       style="stroke-width:0.114129"
+       inkscape:export-filename="C:\Users\Nicholas\Desktop\portfolio\rect15969.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4d4d4d;stroke-width:0.135137"
+       id="rect16400"
+       width="25.179192"
+       height="3.1213853"
+       x="149.35867"
+       y="127.35258"
+       ry="1.5606927"
+       inkscape:export-filename="C:\Users\Nicholas\Desktop\portfolio\rect15969.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
